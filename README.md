@@ -1,2 +1,2 @@
 # CodSoft
-Data Science inter tasks of intership at CodSoft
+Data Science tasks of intership at CodSoft
